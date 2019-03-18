@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=CON|SchDesignator=CON|FileName=connectors.SchDoc|SymbolType=Normal|RawFileName=connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=IOPOWER|SchDesignator=IOPOWER|FileName=power-io.SchDoc|SymbolType=Normal|RawFileName=power-io.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
