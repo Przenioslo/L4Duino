@@ -1,0 +1,1 @@
+QSPI=SIO[4..1],CLK,#CS

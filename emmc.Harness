@@ -1,0 +1,1 @@
+SDIO=D[4..1],CMD,CLK,#RST
