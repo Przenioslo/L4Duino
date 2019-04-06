@@ -1,6 +1,7 @@
 Record=TopLevelDocument|FileName=top.SchDoc
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=CON|SchDesignator=CON|FileName=connectors.SchDoc|SymbolType=Normal|RawFileName=connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=EMMC|SchDesignator=EMMC|FileName=emmc.SchDoc|SymbolType=Normal|RawFileName=emmc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=IOEXP|SchDesignator=IOEXP|FileName=io-expander.SchDoc|SymbolType=Normal|RawFileName=io-expander.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=IOPOWER|SchDesignator=IOPOWER|FileName=power-io.SchDoc|SymbolType=Normal|RawFileName=power-io.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=MCP2221A|SchDesignator=MCP2221A|FileName=usb-i2c-uart.SchDoc|SymbolType=Normal|RawFileName=usb-i2c-uart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
