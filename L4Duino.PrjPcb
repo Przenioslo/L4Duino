@@ -405,7 +405,7 @@ AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -433,12 +433,12 @@ DocumentPath=Project Outputs for L4Duino\Design Rule Check - L4Duino_ver1.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=id
-Value=L4Duino
-
-[Parameter2]
 Name=ver
 Value=1
+
+[Parameter2]
+Name=id
+Value=L4Duino
 
 [Configuration1]
 Name=Sources
