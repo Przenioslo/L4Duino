@@ -8,3 +8,4 @@ Project Outputs*
 *.err
 *.step
 *template.PcbDoc
+*md.backup
